@@ -1,6 +1,6 @@
 # Amharic Bible In Markdown
 
-The title is pretty descriptive but this is the bible in Amharic with a markdown format of each chapter 
+The title is pretty descriptive but this is the bible in Amharic with a markdown format
 
 ## Why
 
